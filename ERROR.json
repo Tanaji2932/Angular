@@ -1,0 +1,259 @@
+*************************PREMIUM_REQUEST************************
+
+{
+    "body": {
+      "ClientCreation": {
+        "salutation": "Mr",
+        "firstName": "dummy",
+        "middleName": "dummy",
+        "lastName": "dummy",
+        "dateofBirth": "15/10/1992",
+        "gender": "M",
+        "educationalQualification": "",
+        "pinCode": "400001",
+        "uidNo": "",
+        "maritalStatus": "Single",
+        "nationality": "Indian",
+        "occupation": "dummy",
+        "primaryEmailID": "email@email.com",
+        "contactMobileNo": "0000000000",
+        "stdLandlineNo": "0000000000",
+        "panNo": "AUKPG5286G",
+        "passportNumber": "",
+        "contactPerson": "",
+        "annualIncome": 500000,
+        "remarks": "dummy",
+        "startDate": "17/10/2019",
+        "endDate": "17/10/2019",
+        "IdProof": "",
+        "residenceProof": "",
+        "ageProof": "",
+        "others": "",
+        "homeAddressLine1": "line1",
+        "homeAddressLine2": "line2",
+        "homeAddressLine3": "line3",
+        "homePinCode": "400001",
+        "homeArea": "area",
+        "homeContactMobileNo": "0000000000",
+        "homeContactMobileNo2": "0000000000",
+        "homeSTDLandlineNo": "",
+        "homeSTDLandlineNo2": "",
+        "homeFaxNo": "",
+        "sameAsHomeAddress": 1,
+        "mailingAddressLine1": "line1",
+        "mailingAddressLine2": "line2",
+        "mailingAddressLine3": "line3",
+        "mailingPinCode": "400001",
+        "mailingArea": "area",
+        "mailingContactMobileNo": "",
+        "mailingContactMobileNo2": "",
+        "mailingSTDLandlineNo": "",
+        "mailingSTDLandlineNo2": "",
+        "mailingFaxNo": "",
+        "bankAccountType": "",
+        "bankAccountNo": "",
+        "ifscCode": "",
+        "GSTIN": "",
+        "GSTRegistrationStatus": "Consumers",
+        "IsEIAavailable": "0",
+        "ApplyEIA": "0",
+        "EIAAccountNo": "",
+        "EIAWith": "",
+        "AccountType": "",
+        "AddressProof": "",
+        "DOBProof": "",
+        "IdentityProof": "",
+        "UIDAcknowledgementNo": ""
+      },
+      "PolicyCreationRequest": {
+        "Quotation_Number": "",
+        "Product_Code": 4220,
+        "Plan_Code": "4220100001",
+        "SumInsured_Type": "Individual",
+        "Policy_Tanure": "1",
+        "Member_Type_Code": "M403",
+        "intermediaryCode": "1600283",
+        "AutoRenewal": "N",
+        "intermediaryBranchCode": "Branch",
+        "agentSignatureDate": "17/10/2019",
+        "Customer_Signature_Date": "17/10/2019",
+        "businessSourceChannel": "",
+        "leadID": "",
+        "Source_Name": "TurtleMint",
+        "SPID": "",
+        "RefCode1": "",
+        "RefCode2": "",
+        "TCN": "",
+        "EmployeeNumber": "null",
+        "EmployeeDiscount": "",
+        "QuoteDate": "17/10/2019",
+        "CRTNO": "",
+        "IsPayment": 0,
+        "goGreen": 0,
+        "familyDoctor": {
+          "fullName": "",
+          "qualification": "",
+          "emailId": "",
+          "RegistrationNumber": "",
+          "addressLine1": "",
+          "addressLine2": "",
+          "pinCode": "",
+          "contact_number": ""
+        }
+      },
+      "MemObj": {
+        "Member": [
+          {
+            "MemberNo": 1,
+            "Salutation": "Mr",
+            "First_Name": "dummy",
+            "Middle_Name": "dummy",
+            "Last_Name": "dummy",
+            "Gender": "M",
+            "DateOfBirth": "15/10/1992",
+            "Relation_Code": "R001",
+            "Marital_Status": "Single",
+            "height": 167,
+            "weight": 72.8,
+            "occupation": "",
+            "PrimaryMember": "Y",
+            "optionalCovers": [
+              {
+                "optionalCoverName": "Maternity Expenses",
+                "optionalCoverValue": 0
+              },
+              {
+                "optionalCoverName": "OPD Expenses",
+                "optionalCoverValue": 0
+              }
+            ],
+            "productComponents": [
+              {
+                "productComponentName": "Conditions",
+                "productComponentValue": "Non-Chronic"
+              },
+              {
+                "productComponentName": "SumInsured",
+                "productComponentValue": "500000"
+              },
+              {
+                "productComponentName": "Zone",
+                "productComponentValue": "Z001"
+              },
+              {
+                "productComponentName": "RoomCategory",
+                "productComponentValue": "Single Private Room"
+              }
+            ],
+            "MemberPED": [
+              {
+                "PEDCode": "",
+                "Remarks": ""
+              }
+            ],
+            "exactDiagnosis": "",
+            "dateOfDiagnosis": "17/10/2019",
+            "lastDateConsultation": "17/10/2019",
+            "detailsOfTreatmentGiven": "",
+            "doctorName": "",
+            "hospitalName": "",
+            "phoneNumberHosital": "",
+            "labReport": "",
+            "dischargeCardSummary": "",
+            "personalHabitDetail": [
+              {
+                "numberOfYears": "",
+                "count": "",
+                "type": ""
+              }
+            ],
+            "Nominee_First_Name": "",
+            "Nominee_Last_Name": "Test",
+            "Nominee_Contact_Number": "",
+            "Nominee_Home_Address": "",
+            "Nominee_Relationship_Code": ""
+          }
+        ]
+      },
+      "ReceiptCreation": {
+        "officeLocation": "",
+        "modeOfEntry": "",
+        "cdAcNo": "",
+        "expiryDate": "17/10/2019",
+        "payerType": "Customer",
+        "payerCode": "",
+        "paymentBy": "",
+        "paymentByName": "",
+        "paymentByRelationship": "",
+        "collectionAmount": "",
+        "collectionRcvdDate": "17/10/2019",
+        "collectionMode": "",
+        "remarks": "",
+        "instrumentNumber": "",
+        "instrumentDate": "17/10/2019",
+        "bankName": "",
+        "branchName": "",
+        "bankLocation": "",
+        "micrNo": "",
+        "chequeType": "",
+        "ifscCode": "",
+        "PaymentGatewayName": " ABHI TUTRLEMINT",
+        "TerminalID": "76025071"
+      }
+    },
+    "url": "https://bizpre.adityabirlahealth.com/ABHICL_NB/Service1.svc/FQ_ActiveAssure"
+  }
+
+
+*************************PREMIUM_RESPONSE******************************************
+
+ {
+    "PolCreationRespons": {
+      "quoteNumber": "",
+      "customerId": "",
+      "Source_Name": "TurtleMint",
+      "productName": "",
+      "productCode": "",
+      "lineOfBusiness": "",
+      "quoteStatus": "",
+      "quoteValidFromDate": "01/01/0001",
+      "quoteValidToDate": "01/08/0001",
+      "policyNumber": "",
+      "proposalNumber": "",
+      "policyStatus": "",
+      "tenure": "",
+      "stpflag": "",
+      "premiumDetails": [
+        {
+          "Premium": [
+            {
+              "BasePremium": "",
+              "NetPremium": "",
+              "ServiceTax": "",
+              "SBC": "",
+              "KKC": "",
+              "BMI_loading": "",
+              "GrossPremium": "",
+              "FinalPremium": ""
+            }
+          ]
+        }
+      ],
+      "MedicalTestInfo": "",
+      "errorList": [
+        {
+          "ErrorObject": {
+            "errorCode": "0",
+            "errormessage": ""
+          }
+        }
+      ]
+    },
+    "ReceiptCreationResponse": {
+      "errorMessage": "QuickQuoteFailed ",
+      "errorNumber": "03 ",
+      "ReceiptNumber": "",
+      "ReceiptAmount": "",
+      "ExcessAmount": ""
+    }
+  }
